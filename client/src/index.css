@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+.hourly-radial-bg {
+  background: radial-gradient(circle, rgba(250, 226, 189, 0.3) 10%, rgba(250, 226, 189, 0.7) 100%);
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
