@@ -50,11 +50,11 @@ A full-stack weather application built with **React** and **Express**, integrate
 ## 🔧 Setup Instructions
 
 ### 📦 Backend
-cd server
-npm install
-node server.js
+- cd server
+- npm install
+- node server.js
 
 ### 📦 Frontend
-cd client
-npm install
-npm run dev
+- cd client
+- npm install
+- npm run dev
